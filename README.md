@@ -24,7 +24,7 @@ void GcodeSuite::M117() {
  #endif
 
   #if SERIAL_PORT == 2
-   MYSERIAL.print("echo:M117 "); MYSERIAL.print(parser.string_arg);MYSERIAL.write(13);
+   MYSERIAL0.print("echo:M117 "); MYSERIAL0.print(parser.string_arg);MYSERIAL0.write(13);
  #endif
 }
   else
