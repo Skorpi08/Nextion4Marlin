@@ -1,3 +1,7 @@
+
+If you are missing any features, please let me know.
+
+
 must be enabled:
 
 #define PIDTEMP
