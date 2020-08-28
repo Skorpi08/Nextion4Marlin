@@ -15,6 +15,7 @@ must be enabled:
 #define SDSUPPORT
 #define AUTO_REPORT_SD_STATUS
 #define REPRAP_DISCOUNT_FULL_GRAPHIC_SMART_CONTROLLER
+#define DISTINCT_E_FACTORS
 
 Need to change M117.cpp File:
 
