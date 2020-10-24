@@ -1,5 +1,6 @@
 
-<h1 style="color: #5e9ca0;">If you are missing any features, please let me know.</h1>
+<h1 style="color: #5e9ca0;">If you are missing any features, please let me know.
+This Version works only with Intelligent Series.</h1>
 
 <h2 style="color: #2e6c80;">Must be enabled:</h2>
 <ol style="list-style: none; font-size: 14px; line-height: 32px; font-weight: bold;">
